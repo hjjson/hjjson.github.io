@@ -4,6 +4,8 @@ title:  "안녕하세요 더아이엠씨 AI 블로그 입니다."
 date:   2024-10-18 10:41:26 +0900
 categories: theimc update
 ---
+현재 소비자원 프로젝트의 일환으로 상호, 상품, 주소, 이름 등을 포함한 비식별화 ner 테거를 개발하고 있으며, ner 테거에서 문장 토큰화는 필수적인 과정임
+NER 테거 개발은 회사의 오랜 과제이고, 적절한 핑계가 있을 때 조금이라도 이바지하기 위하여 본 주제를 설정함
 
 ![image-left]({{ '/images/theimc.png' | relative_url }}){: .align-left}
 ![image-right]({{ '/images/theimc.png' | relative_url }}){: .align-right}
