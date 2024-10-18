@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "theIMC AI"
-description: "<a href='https://theimc.co.kr/web/php/sub/career.php'>Join our tema</a>"
+description: "<a href='https://theimc.co.kr/web/php/sub/career.php'>Join our team</a>"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://hjjson.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
