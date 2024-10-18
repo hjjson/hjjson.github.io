@@ -100,8 +100,8 @@ author:
       url:
       icon:
 
-# Footer Links
+#Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: chat
+    url: https://aitom.co.kr/
+    icon: fas fa-braille

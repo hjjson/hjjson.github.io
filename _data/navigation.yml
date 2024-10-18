@@ -9,8 +9,9 @@
 # - title: Tag
 #   url: /tag/
 # - title: Recipes
-#   url: /recipes/
+#   url: /recipes/z
+- title: AI TOM
+  url: https://aitom.co.kr/
 - title: Search
   url: /search/
-# - title: Join our team
-#   url: https://theimc.co.kr/web/php/sub/career.php
+
