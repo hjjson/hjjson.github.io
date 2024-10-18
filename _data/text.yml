@@ -35,6 +35,8 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+ko-KR:
+  <<: *DEFAULT_EN
 
 
 # German
@@ -191,3 +193,4 @@ tr: &DEFAULT_TR
   powered_by: "Powered by"
 tr-TR:
   <<: *DEFAULT_TR
+
