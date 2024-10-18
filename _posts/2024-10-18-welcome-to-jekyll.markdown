@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to theIMC AI blog"
 date:   2024-10-18 10:41:26 +0900
 categories: jekyll update
 ---
