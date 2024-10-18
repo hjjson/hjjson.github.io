@@ -7,3 +7,7 @@
 
 - 마크다운 문서 작성시 참고할 내용
 > https://github.com/olvimama/olvimama.github.io/tree/master/_posts
+
+- font change 
+> check _sass / so-simple / _variables.scss file
+> font from https://fonts.google.com/specimen/Nanum+Gothic?lang=ko_Kore
