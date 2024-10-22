@@ -5,5 +5,6 @@ date:   2024-10-18 10:41:26 +0900
 author:
   name: jin
   picture: /images/jin/jin_profile.jpg
+  etc: theIMC r&a team leader
 ---
 **JIN** 데이터 사이언티스트(더아이엠씨 r&m팀 리더 #llm-workflow #모빌리티 #llm-engineering)<br>
