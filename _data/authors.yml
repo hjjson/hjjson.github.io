@@ -1,14 +1,9 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy jin:
-  name: Billy jin
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+Jin:
+  name: Jin
+  picture: /images/jin/jin_profile.jpg
 
 Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
