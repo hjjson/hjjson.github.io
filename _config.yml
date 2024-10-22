@@ -92,15 +92,15 @@ defaults:
       share: true
 
 # Site Author
-author: jin
-  # name:
-  # picture:
-  # email:
-  # twitter:
-  # links:
-  #   - title:
-  #     url:
-  #     icon:
+author:
+  name: jin
+  picture:
+  email:
+  twitter:
+  links:
+    - title:
+      url:
+      icon:
 
 #Footer Links
 footer_links:
