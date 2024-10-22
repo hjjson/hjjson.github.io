@@ -1,7 +1,7 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
+jin:
   name: Billy Rick
   picture: /images/bio-photo-2.jpg
   twitter: "@billyrick"
@@ -9,8 +9,8 @@ Billy Rick:
     - title: Twitter
       url: https://twitter.com/billyrick
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
+      
+kang:
   name: Cornelius Fiddlebone
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
