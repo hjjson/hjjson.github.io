@@ -74,10 +74,10 @@ excerpt_separator: "<!--more-->"
 - olvimama 블로그(한글)
 
 >  https://olvimama.github.io/post/ # 웹사이트
->  https://github.com/olvimama/olvimama.github.io/tree/master/_posts #마크다운 코드
+>  https://github.com/olvimama/olvimama.github.io/tree/master/_posts # 마크다운 코드
 
 - so-simple-theme 블로그(영문)
-> https://mmistakes.github.io/so-simple-theme/posts/
-> https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts
+> https://mmistakes.github.io/so-simple-theme/posts/ # 웹사이트
+> https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts # 마크다운 코드
 
 [참고] 미결정 상황 : tag와 catgories 기능이 있고 각 기능을 사용할지 사용한다면 어떤 목적으로 사용할지 등을 논의해야할 필요성이 있음
