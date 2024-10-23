@@ -2,10 +2,6 @@
 layout: post
 title:  "감성분석 업그레이드"
 date:   2024-10-22 00:00:00 +0900
-author:
-  name: kang
-  picture: /images/jin/jin_profile.jpg
-  etc: theIMC r&a team leader
 ---
 안녕하세요. 텍스톰에서 NLP를 연구하고 있는 데이터사이언스연구소의 강지훈 주임연구원입니다.
 
