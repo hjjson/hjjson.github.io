@@ -1,8 +1,9 @@
 #### 개요
+
 본 깃허브 블로그는 [so-simple-theme](https://github.com/mmistakes/so-simple-theme) 테마를 활용하여 제작하였습니다.
 
-
 #### 깃허브 블로그를 만들기 위해 참고한 사이트
+
 - 깃허브 레퍼지토리 생성 및 Github Desktop와 VSCode 설치
 > https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-1/
 
@@ -24,6 +25,8 @@ $nanum-gothic-font-family: "Nanum Gothic", sans-serif !default; /* 폰트 패밀
 $title-font-family: $nanum-gothic-font-family !default; /* title-font-family 를 nanum-gothic-font-family로 변경*/
 ```
 
+#### 문서 참고 없이 커스텀한 내용
+
 - 커스텀 환경 : author
 `includes / page-author.html` 파일에 아래 코드 추가 하여 description 레이아웃 추가함
 
@@ -40,6 +43,7 @@ $title-font-family: $nanum-gothic-font-family !default; /* title-font-family 를
  {% if site.data.text[site.locale].by %}<em>{{ site.data.text[site.locale].by }}</em> {% endif %}<span class="p-name"><b>{{ author.name }}</b></span>
 ```
 
-- 마크다운 문서 작성시 참고할 내용
+#### 마크다운 문서 작성시 참고 할 수 있는 사이트
+
 > https://github.com/olvimama/olvimama.github.io/tree/master/_posts
 > https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts
