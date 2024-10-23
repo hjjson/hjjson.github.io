@@ -2,8 +2,9 @@
 # Remove file or replace with your own
 
 Jin:
-  name: Jin\n(r&m teamleader)
+  name: Jin
   picture: /images/jin/jin_profile.jpg
+  description: r&m teamleader
 
 Cornelius Fiddlebone:
   name: Cornelius Fiddlebone

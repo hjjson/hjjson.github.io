@@ -11,3 +11,13 @@
 - font change 
 > check _sass / so-simple / _variables.scss file
 > font from https://fonts.google.com/specimen/Nanum+Gothic?lang=ko_Kore
+
+- description 항목 추가 for auther
+> includes / page-author.html
+"""html
+    {%- if author.description -%}
+    <div class="author-name">
+      <span class="p-name">{{ author.description }}**</span>
+    </div>
+    {%- endif -%}
+"""
