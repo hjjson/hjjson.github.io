@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  더아이엠씨 AI 블로그 레이어 작성법
+title:  더아이엠씨 AI 블로그 post layer 작성법
 date:   2024-10-18
 author: Jin
 excerpt_separator: "<!--more-->"
@@ -10,7 +10,7 @@ tags:
     - rule
 ---
 
-본 포스팅은 더아이엠씨 AI 블로그 작성을 위해 반드시 작성해야하는 layout 작성법을 서술하였으며, layout 반드시 첫줄부터 입력한 후 본 글을 시작합니다.
+본 포스팅은 더아이엠씨 AI 블로그 작성을 위해 반드시 작성해야하는 layout 작성법을 서술하였습니다. 작성중인 마크다운 문서에 layout을 첫줄부터 입력한 후 본 글을 시작합니다.
 <!--more-->
 
 ## layout 작성법
@@ -71,11 +71,13 @@ excerpt_separator: "<!--more-->"
 
 ## [참고] 마크다운 문서 작성시 참고 할 수 있는 사이트
 
-> 참고 홈페이지: https://olvimama.github.io/post/
-> 
-> 마크다운 코드: https://github.com/olvimama/olvimama.github.io/tree/master/_posts
+- olvimama 블로그(한글)
 
+>  https://olvimama.github.io/post/ # 웹사이트
+>  https://github.com/olvimama/olvimama.github.io/tree/master/_posts #마크다운 코드
 
-> 참고 홈페이지: https://mmistakes.github.io/so-simple-theme/posts/
-> 
-> 마크다운 코드 위치: https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts
+- so-simple-theme 블로그(영문)
+> https://mmistakes.github.io/so-simple-theme/posts/
+> https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts
+
+[참고] 미결정 상황 : tag와 catgories 기능이 있고 각 기능을 사용할지 사용한다면 어떤 목적으로 사용할지 등을 논의해야할 필요성이 있음
