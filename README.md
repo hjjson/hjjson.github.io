@@ -42,8 +42,3 @@ $title-font-family: $nanum-gothic-font-family !default; /* title-font-family 를
 ```html
  {% if site.data.text[site.locale].by %}<em>{{ site.data.text[site.locale].by }}</em> {% endif %}<span class="p-name"><b>{{ author.name }}</b></span>
 ```
-
-### 마크다운 문서 작성시 참고 할 수 있는 사이트
-
-> https://github.com/olvimama/olvimama.github.io/tree/master/_posts
-> https://github.com/mmistakes/so-simple-theme/tree/master/docs/_posts
